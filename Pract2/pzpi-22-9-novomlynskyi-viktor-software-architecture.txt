@@ -135,7 +135,7 @@ GitHub-репозиторію.
 Посилання на файл з кодом в GitHub репозиторії:
 
 https://github.com/NureNovomlynskyiViktor/apz-pzpi-22-9-novomlynskyi-viktor/tre
-e/main/Pract1/pzpi-22-9-novomlynskyi-viktor-software-architecture
+e/main/Pract2/pzpi-22-9-novomlynskyi-viktor-software-architecture
                               ДОДАТОК Б
 
 
